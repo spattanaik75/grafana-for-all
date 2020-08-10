@@ -1,0 +1,7 @@
+
+**/.idea/
+**/.mvn/
+**/target/
+selenium/test_output/
+selenium/test-output/
+**/*.iml
