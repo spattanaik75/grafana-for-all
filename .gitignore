@@ -5,3 +5,4 @@
 selenium/test_output/
 selenium/test-output/
 **/*.iml
+prometheus/blackbox/blackbox_exporter
